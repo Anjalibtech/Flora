@@ -11,7 +11,7 @@
    
    header {
    height:260px;
-   width:1050px;
+   width:950px;
    background-color:#ff0000;
    color:#fff;
    }
@@ -33,6 +33,11 @@
    color:#0000a0;
    }
    
+   .fauna {
+   font-size:20px;
+   color:#0000a0;
+   }
+
    .contents h1 {
    size:55px;
    color:#00ffff;
