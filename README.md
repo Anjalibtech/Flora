@@ -11,7 +11,7 @@
    
    header {
    height:260px;
-   width:950px;
+   width:1050px;
    background-color:#ff0000;
    color:#fff;
    }
