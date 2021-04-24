@@ -10,7 +10,7 @@
    
    header {
    height:300px;
-   width:1050px;
+   width:950px;
    background-color:#ff0000;
    color:#fff;
    }
@@ -28,6 +28,11 @@
    }
    
    .flora {
+   font-size:20px;
+   color:#0000a0;
+   }
+   
+   .fauna {
    font-size:20px;
    color:#0000a0;
    }
@@ -71,7 +76,7 @@
   </header> 
   <div class="main">
    <div class="contents">
-    <h1>Flora</h1>
+    <h1 text-align="left">Flora</h1>
     <p>Flora is all the plant life present in a particular region or time, generally the naturally occurring (indigenous) native plants</p>
     <h2>Endangered</h2>
     <p>Endangered species, any species that is at risk of extinction because of a sudden rapid decrease in its population or a loss of its critical habitat.Endangered plant species can be found all over the world. No matter where they are located, they all share one common factor that is thought to have put them onto the endangered list. None of these plants, flowers or trees is thought to have any commodity value to the human race. They may have in an early era, but their lack of usefulness has not encouraged efforts to promote conservation.</p>
