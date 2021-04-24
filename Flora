@@ -9,7 +9,7 @@
    }
    
    header {
-   height:260px;
+   height:300px;
    width:1050px;
    background-color:#ff0000;
    color:#fff;
