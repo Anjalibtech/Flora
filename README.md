@@ -65,7 +65,7 @@
   <header>
    <div class="header-logo"><a href=" https://anjalibtech.github.io/Know-your-species/">Flora and Fauna</a></div>
    <div class="header-list"><ul>
-    <li><a href="https://anjalibtech.github.io/Flora/"<Flora</a><div class="flora"><ul><li>Endangerd</li>
+    <li><a href="https://anjalibtech.github.io/Flora/">Flora</a><div class="flora"><ul><li>Endangerd</li>
    <li>Extinct</li></ul></div></li>
    <li>Fauna<div class="fauna"><ul><li>Endangerd</li>
    <li>Extinct</li></ul></div></li></ul>  
